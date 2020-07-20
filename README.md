@@ -55,99 +55,99 @@ Technologies and tools that I am learning at the moment:
 <p align="center">
     <a href="https://www.javascript.com/">
         <img 
-            src="/assets/icon-javascript.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-javascript.svg" 
             alt="logo JavaScript"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img 
-            src="/assets/icon-ecmascript6.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-ecmascript6.svg" 
             alt="logo ECS6"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
         <img 
-            src="/assets/icon-css3.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-css3.svg" 
             alt="logo CSS3"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
         <img 
-            src="/assets/icon-html5.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-html5.svg" 
             alt="logo HTML5"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://mozilla.github.io/nunjucks/">
         <img 
-            src="/assets/icon-nunjucks.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nunjucks.svg" 
             alt="logo Nunjucks"
             width="53px"
             style="border-radius: 16px;">
     </a>
     <a href="https://www.typescriptlang.org/">
         <img 
-            src="/assets/icon-typescript.png"
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-typescript.png"
             alt="logo Typescript"
             width="56px">
     </a>
     <a href="https://reactjs.org/">
         <img 
-            src="/assets/icon-react.svg"
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react.svg"
             alt="logo React"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://reactnative.dev/">
         <img 
-            src="/assets/icon-react-native.svg"
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-react-native.svg"
             alt="logo React native"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://nodejs.org/en/">
         <img 
-            src="/assets/icon-nodejs.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-nodejs.svg" 
             alt="logo Node.js"
             width="50px"
             style="border-radius: 8px;">
     </a>
     <a href="https://expressjs.com/">
         <img 
-            src="/assets/icon-express2.png" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-express2.png" 
             alt="logo express"
             width="100px">
     </a>
     <a href="https://git-scm.com/">
         <img 
-            src="/assets/icon-git.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-git.svg" 
             alt="logo git"
             width="50px">
     </a>
     <a href="https://www.postgresql.org/">
         <img 
-            src="/assets/icon-postgresql.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-postgresql.svg" 
             alt="logo postgreSQL"
             width="50px">
     </a>
     <a href="https://www.figma.com/">
         <img 
-            src="/assets/icon-figma.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-figma.svg" 
             alt="logo Figma"
             width="50px">
     </a>
     <a href="https://github.com/">
         <img 
-            src="/assets/icon-gitHub2.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-gitHub2.svg" 
             alt="logo Github"
             width="50px">
     </a>
     <a href="https://code.visualstudio.com/">
         <img 
-            src="/assets/icon-vscode.svg" 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-vscode.svg" 
             alt="logo Vscode"
             width="50px">
     </a>
@@ -178,6 +178,7 @@ Technologies and tools that I am learning at the moment:
 - 📚 Fantasy books;
 - 🎮 RPG PC games(GT Starkasty);
 - 🎻 Play my Violin;
+- 🎧 Listening to good music;
 - 🎬 Watch Movies and TV Shows;
 - 👫 Walk with my beautiful wife and my little dog.🐕
 
