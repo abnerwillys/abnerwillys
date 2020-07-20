@@ -121,6 +121,7 @@ Technologies and tools that I am learning at the moment:
             alt="logo express"
             width="100px">
     </a>
+    </br>
     <a href="https://git-scm.com/">
         <img 
             src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-git.svg" 
