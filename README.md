@@ -169,9 +169,9 @@ Technologies and tools that I am learning at the moment:
 ---
 #### 💬 Languages
 
-- English;
-- Spanish;
-- Portuguese.
+- English - Intermediate;
+- Spanish - Intermediate;
+- Portuguese - Native.
 
 ---
 #### ⚡ Hobbies
