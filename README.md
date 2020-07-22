@@ -167,7 +167,7 @@ Technologies and tools that I am learning at the moment:
 
 
 ---
-#### 💬 Languages
+#### 💬 Languages(Learning)
 
 - English - Intermediate;
 - Spanish - Intermediate;
