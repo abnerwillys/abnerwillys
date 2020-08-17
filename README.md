@@ -32,7 +32,7 @@
     <a href="mailto:tgmarinho@gmail.com">
         <img 
             alt="gmail Abner Willys" 
-            src="https://img.shields.io/badge/-abwillys001@gmail.com-%23c14438?style=flat-square&logo=gmail&logoColor=white">
+            src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.facebook.com/abnerwillys">
         <img 
