@@ -6,7 +6,7 @@
     <a href="https://blog.rocketseat.com.br/author/thiago/">
         <img 
             style="border-radius: 50%;" 
-            src="https://avatars0.githubusercontent.com/u/59853942?s=460&u=000274e39c7029e3c065fd9a6913c850907d4691&v=4" 
+            src="https://avatars1.githubusercontent.com/u/59853942?s=460&u=86fd64403719e29dfbd3a6e5bd53854eb53b681a&v=4" 
             width="120px;" 
             alt="Foto">
         <br/>
