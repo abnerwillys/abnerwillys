@@ -157,7 +157,6 @@ Technologies and tools that I am learning at the moment:
 ---
 #### 🚧 What I'm looking for
 
-- Searching a job like a Frontend, Backend or FullStack developer;
 - Collaborate in a project;
 - Freelance projects;
 - To join a Hackaton team to improve my basic skills;
@@ -170,7 +169,7 @@ Technologies and tools that I am learning at the moment:
 #### 💬 Languages(Learning)
 
 - English - Intermediate;
-- Spanish - Intermediate;
+- Spanish - Basic;
 - Portuguese - Native.
 
 ---
