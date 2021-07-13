@@ -15,7 +15,7 @@
 </p>
 </br>
 <h6 align="center">
-    My name is Abner Willys. I'm 25 years old and I'm from Maringá, PR - Brazil. I am a student full-stack developer. Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. Passionate about the JavaScript stack.
+    My name is Abner Willys. I'm 25 years old and I'm from Maringá, PR - Brazil. I'm a full-stack developer. Enthusiast of technology, games, and nerdy world. Passionate about helping to solve problems. Passionate about the JavaScript stack.
 </h6>
 
 <p align="center">
@@ -24,20 +24,10 @@
             alt="Linkedin Abner Willys" 
             src="https://img.shields.io/badge/-Abner%20Willys-%230077b5?style=flat-square&logo=linkedin">
     </a>
-    <a href="https://twitter.com/AbnerStarkasty">
-        <img 
-            alt="twitter Abner Willys" 
-            src="https://img.shields.io/badge/-@abnerStarkasty-%231ca0f1?style=flat-square&logo=twitter&logoColor=white">
-    </a>
     <a href="mailto:tgmarinho@gmail.com">
         <img 
             alt="gmail Abner Willys" 
             src="https://img.shields.io/badge/Gmail-%23c14438?style=flat-square&logo=gmail&logoColor=white">
-    </a>
-    <a href="https://www.facebook.com/abnerwillys">
-        <img 
-            alt="facebook Abner Willys" 
-            src="https://img.shields.io/badge/-Abner%20Willys-%234267b2?style=flat-square&logo=facebook&logoColor=white">
     </a>
     <a href="https://bit.ly/3eC6MX5">
         <img 
@@ -50,7 +40,7 @@
 ### 🛠 Technologies
 
 <p align="center">
-Technologies and tools that I am learning at the moment:
+Some technologies/tools that I am aware of:
 
 <p align="center">
     <a href="https://www.javascript.com/">
@@ -59,6 +49,12 @@ Technologies and tools that I am learning at the moment:
             alt="logo JavaScript"
             width="50px"
             style="border-radius: 8px;">
+    </a>
+    <a href="https://www.typescriptlang.org/">
+        <img 
+            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-typescript.png"
+            alt="logo Typescript"
+            width="56px">
     </a>
     <a href="http://www.ecma-international.org/ecma-262/6.0/">
         <img 
@@ -87,12 +83,6 @@ Technologies and tools that I am learning at the moment:
             alt="logo Nunjucks"
             width="53px"
             style="border-radius: 16px;">
-    </a>
-    <a href="https://www.typescriptlang.org/">
-        <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-typescript.png"
-            alt="logo Typescript"
-            width="56px">
     </a>
     <a href="https://reactjs.org/">
         <img 
@@ -134,18 +124,6 @@ Technologies and tools that I am learning at the moment:
             alt="logo postgreSQL"
             width="50px">
     </a>
-    <a href="https://www.figma.com/">
-        <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-figma.svg" 
-            alt="logo Figma"
-            width="50px">
-    </a>
-    <a href="https://github.com/">
-        <img 
-            src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-gitHub2.svg" 
-            alt="logo Github"
-            width="50px">
-    </a>
     <a href="https://code.visualstudio.com/">
         <img 
             src="https://github.com/abner-starkasty/abner-starkasty/blob/master/assets/icon-vscode.svg" 
@@ -159,7 +137,7 @@ Technologies and tools that I am learning at the moment:
 
 - Collaborate in a project;
 - Freelance projects;
-- To join a Hackaton team to improve my basic skills;
+- To join a Hackaton team to improve my skills;
 - To grow with the support of the community.
 
 
