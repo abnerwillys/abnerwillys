@@ -15,7 +15,7 @@
 </p>
 </br>
 <h6 align="center">
-    My name is Abner Willys. I'm 26 years old and I'm from Maringá, PR - Brazil. I'm a full-stack developer. Passionate about helping to solve problems and JavaScript stack. Enthusiast of technology, games, and nerdy world.
+    My name is Abner Willys. I'm 28 years old and I'm Brazilian, currently living in Prague- Czech Republic. I'm a full-stack developer passionate about helping to solve problems and JavaScript stack. Enthusiast of technology, games, and nerdy world.
 </h6>
 
 <p align="center">
@@ -146,7 +146,7 @@ Some technologies/tools that I am aware of:
 ---
 #### 💬 Languages(Learning)
 
-- English - Intermediate;
+- English - Advanced;
 - Spanish - Basic;
 - Portuguese - Native.
 
