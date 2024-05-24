@@ -137,18 +137,19 @@ Some technologies/tools that I am aware of:
 
 - Collaborate in a project;
 - Freelance projects;
-- To join a Hackaton team to improve my skills;
+- To join a Hackaton team;
 - To grow with the support of the community.
 
 
 
 
 ---
-#### 💬 Languages(Learning)
+#### 💬 Languages
 
 - English - Advanced;
 - Spanish - Basic;
 - Portuguese - Native.
+- And learning....
 
 ---
 #### ⚡ Hobbies
@@ -156,7 +157,7 @@ Some technologies/tools that I am aware of:
 - 📚 Fantasy books;
 - 🎮 RPG PC games(GT Starkasty);
 - 🎻 Play my Violin;
-- 🎧 Listening to good music;
+- 🎧 Listening a good music;
 - 🎬 Watch Movies and TV Shows;
 - 👫 Walk with my beautiful wife and my little dog.🐕
 
